@@ -4,9 +4,7 @@
 
 ---
 
-<div align="center">
-  <p>⭐️ 如果这个项目对你有帮助，欢迎点个Star支持一下~ ⭐️</p>
-</div>
+## ⚠️ 注意：因相关法律政策原因，该项目已于2025年4月12日停止维护。
 
 ---
 
@@ -28,6 +26,7 @@
   <a href="README.md">中文</a> | 
   <a href="docs/en/README.md">English</a>
 </div>
+
 
 <p align="center">WePartner 是一个基于Dify/Coze和Gewechat开发的智能聊天机器人项目。它通过集成 Dify AI 平台或Coze(扣子)平台，提供高效、智能的消息处理和自动回复服务。支持GPT-SoVITS合成语音，支持RVC变声合成歌曲，根据知识库中的音乐实现AI唱歌</p>
 
@@ -172,14 +171,6 @@ docker update --restart=always gewe
 - 定期检查在线状态
 - 保持配置信息的安全性
 
-
-## 💬 核心交流群
-
-| 群类型 | 群号 | 状态 |
-|--------|------|------|
-| ✨ 交流群 | 953715009 | ✅ 已开放 |
-| 🎁 付费群 | 1040728529 | ✅ 已开放 |
-
 ## 🤝 贡献指南
 
 感谢你对项目的关注！欢迎各种形式的贡献
@@ -243,7 +234,3 @@ docker update --restart=always gewe
 
 
 ---
-
-<div align="center">
-  <p>如果这个项目对你有帮助，欢迎Star支持！⭐️</p>
-</div>
